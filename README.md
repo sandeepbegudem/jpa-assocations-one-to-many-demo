@@ -1,1 +1,1 @@
-# Jpa-Assocation-One-To-Many-Cart-Items
+# jpa-assocations-one-to-many-demo
